@@ -15,5 +15,4 @@ Letters Mod
 AAC Engines Mod  
 Sam's Miscellaneous                
 Kiwi Main Engines (No use of antimatter engines, v1.4 UPDATE NEEDED)              
-Lasers (only to mark colonies)   
 New Dawn Parts
