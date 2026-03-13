@@ -3,7 +3,7 @@
 Contains the configs for New Genesis (season 2 of the 1.6 rp)
 
 ## Links
-Forum thread: placeholder
+Forum thread: placeholder 
 Discord Server: [New Genisis](https://discord.gg/ZnzxsBcbhJ)  
 Website: placeholder
 
