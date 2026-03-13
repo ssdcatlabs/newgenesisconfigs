@@ -1,0 +1,12 @@
+{
+    "Space_Agencies": [
+        {
+            "name": "Bluestar Aerospace",
+            "owner": "ssdcat",
+            "type": "Government",
+            "prestige": "0",
+            "status": "Active",
+            "comms": "Basic"
+        }
+    ]
+}
