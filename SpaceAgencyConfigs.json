@@ -23,6 +23,22 @@
             "prestige": "0",
             "status": "Active",
             "comms": "Basic"
+        },
+        {
+            "name": "Aerolox industries",
+            "owner": "jansuki",
+            "type": "Private",
+            "prestige": "0",
+            "status": "Active",
+            "comms": "Basic"
+        },
+        {
+            "name": "Red Cosmos",
+            "owner": "Sam the eater of doritos",
+            "type": "Private",
+            "prestige": "0",
+            "status": "Active",
+            "comms": "Basic"
         }
     ]
 }
