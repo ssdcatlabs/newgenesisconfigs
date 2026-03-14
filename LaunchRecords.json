@@ -39,6 +39,10 @@
         {
           "event": "First RASA Orbital Mission | First Reusable Rocket",
           "who": "Roshan Aerospace and Space Agency"
+        },
+        {
+          "event": "Skyman 3, first orbital rocket for the APA and first (attempted) orbital recovery",
+          "who": "Aerospace Pioneers Association"
         }
     ]
 }
