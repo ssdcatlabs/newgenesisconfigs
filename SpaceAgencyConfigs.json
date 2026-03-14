@@ -71,6 +71,14 @@
             "prestige": "0",
             "status": "Active",
             "comms": "Basic"
+        },
+        {
+            "name": "Andromeda Aerospace",
+            "owner": "Andromeda Aerospace",
+            "type": "Private",
+            "prestige": "0",
+            "status": "Active",
+            "comms": "Basic"
         }
     ]
 }
