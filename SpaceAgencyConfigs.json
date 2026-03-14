@@ -79,6 +79,14 @@
             "prestige": "0",
             "status": "Active",
             "comms": "Basic"
+        },
+        {
+            "name": "Baltic Blue",
+            "owner": "Infinix",
+            "type":"Private",
+            "prestige": "0",
+            "status": "Active",
+            "comms": "Basic"
         }
     ]
 }

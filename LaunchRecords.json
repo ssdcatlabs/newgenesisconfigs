@@ -31,6 +31,14 @@
         {
           "event": "Explorer-2, took 2 images of space",
           "who": "Untitled Aersopace"
+        },
+        {
+          "event": "Nuclide Orbital 1: A orbital mission.",
+          "who": "Nuclide Technologies"
+        },
+        {
+          "event": "First RASA Orbital Mission | First Reusable Rocket",
+          "who": "Roshan Aerospace and Space Agency"
         }
     ]
 }

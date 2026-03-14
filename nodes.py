@@ -3,7 +3,11 @@ from tkinter import messagebox
 
 root = None
 
-researchpoints = 0
+with open("rp.txt", "a+") as rp:
+    content = rp.read()
+    if not content:
+        rp.write("0")
+researchpoints = int(rp.read().strip())
 bgval = tk.StringVar(value="gray7")
 bg2val = tk.StringVar(value="gray12")
 fgval = tk.StringVar(value="white")
