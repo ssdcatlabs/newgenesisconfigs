@@ -3,6 +3,18 @@
         {
           "event": "First launch in the RP",
           "who": "Aerospace Pioneers Association"
+        },
+        {
+          "event": "Second launch in the RP",
+          "who": "Bluestar Aerospace"
+        },
+        {
+          "event": "Third launch in the RP",
+          "who": "Nuclide technologies"
+        },
+        {
+          "event": "First soft landing",
+          "who": "Nuclide technologies"
         }
     ]
 }
