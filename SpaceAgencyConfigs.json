@@ -20,7 +20,7 @@
             "name": "Roshan Aerospace and Space Agency (RASA)",
             "owner": "Roshan",
             "type": "Private",
-            "prestige": "1",
+            "prestige": "1.25",
             "status": "Active",
             "comms": "Basic"
         },
@@ -52,7 +52,7 @@
             "name": "Nuclide technologies",
             "owner": "Engine",
             "type": "Private",
-            "prestige": "2",
+            "prestige": "3",
             "status": "Active",
             "comms": "Basic"
         },
