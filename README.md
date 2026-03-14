@@ -6,7 +6,7 @@ Contains the configs for New Genesis (season 2 of the 1.6 rp)
 
 [README.md](https://github.com/ssdcatlabs/newgenesisconfigs/blob/main/README.md) is this file                          
 [Records.md](https://github.com/ssdcatlabs/newgenesisconfigs/blob/main/Records.md) is for storing notable missions           
-[MODS.md](https://github.com/ssdcatlabs/newgenesisconfigs/blob/main/mods.md) is the list of mods
+[MODS.md](https://github.com/ssdcatlabs/newgenesisconfigs/blob/main/Mods.md) is the list of mods
 
 ## Links
 Forum thread: [Placeholder](https://jmnet.one/sfs/forum/)     
