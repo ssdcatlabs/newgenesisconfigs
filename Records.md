@@ -2,7 +2,7 @@
 THis is used to store records of notable missions, e.g. first crewed orbit of the moon.
 
 # General
-First launch:                 
+First launch: Launch 1 - Aerospace Pioneers Association - 2000                
 First orbit:       
 
 # Earth:
