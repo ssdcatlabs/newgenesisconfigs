@@ -52,7 +52,7 @@
             "name": "Nuclide technologies",
             "owner": "Engine",
             "type": "Private",
-            "prestige": "1",
+            "prestige": "2",
             "status": "Active",
             "comms": "Basic"
         },
@@ -60,7 +60,7 @@
             "name":"Untitled Aersopace",
             "owner": "ilikespace",
             "type": "Private",
-            "prestige": "0",
+            "prestige": "0.25",
             "status": "Active",
             "comms": "Basic"
         },
