@@ -131,6 +131,10 @@
         {
           "event": "Colonizer 2 | First suborbital manned flight",
           "who": "Bluestar Aerospace"
+        },
+        {
+          "event": "Colonizer 3 | First orbital manned flight",
+          "who": "Bluestar Aerospace"
         }
     ]
 }
