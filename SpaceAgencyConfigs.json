@@ -96,9 +96,17 @@
             "status": "Active",
             "comms": "Basic"
         },
-          {
+        {
             "name": "NDEA/New Dawn Engineering & Aerospace",
             "owner": "SadCashier20/captaindawn90315",
+            "type": "Private",
+            "prestige": "0",
+            "status": "Active",
+            "comms": "Basic"
+        },
+        {
+            "name": "Danish Space Agency Program",
+            "owner": "FPE Fan",
             "type": "Private",
             "prestige": "0",
             "status": "Active",
