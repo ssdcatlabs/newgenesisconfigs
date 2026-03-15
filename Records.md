@@ -8,7 +8,7 @@ First orbit:
 # Earth:
 
 ### Crewed:
-Orbit: Nuclide Technologies - Progress 1
+Orbit: Not done yet
 
 ### Uncrewed:
 Orbit: Nuclide Technologies - Nuclide Orbital 1
