@@ -63,6 +63,10 @@
         {
           "event": "Progress-1 | First manned mission",
           "who": "Nuclide Technologies"
+        },
+        {
+          "event": "Leaper 1, first satellite to reach geostationary orbit altitude",
+          "who": "Aerospace Pioneers Association"
         }
     ]
 }
