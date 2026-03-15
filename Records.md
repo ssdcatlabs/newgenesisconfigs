@@ -2,7 +2,7 @@
 THis is used to store records of notable missions, e.g. first crewed orbit of the moon.
 
 # General
-First launch: Launch 1 - Aerospace Pioneers Association - 2000                
+First launch: Skyman 1 - Aerospace Pioneers Association - 1951               
 First orbit:       
 
 # Earth:
@@ -11,7 +11,7 @@ First orbit:
 Orbit: Not done yet
 
 ### Uncrewed:
-Orbit: Nuclide Technologies - Nuclide Orbital 1
+Orbit: Nuclide Orbital 1 - Nuclide Technologies - 1953
 
 ### Advanced:
 Space station: Not done yet
@@ -23,7 +23,7 @@ Flyby: Not done yet
 Orbit: Not done yet
 
 #### Uncrewed:
-Flyby: Not done yet   
+Flyby: Lunon 2 - Aerospace Pioneers Association - 1956
 Orbit: Not done yet
 
 #### Advanced:
