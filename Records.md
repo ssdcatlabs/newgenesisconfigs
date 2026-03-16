@@ -24,7 +24,7 @@ Orbit: Not done yet
 
 #### Uncrewed:
 Flyby: Lunon 2 - Aerospace Pioneers Association - 1957       
-Orbit: Not done yet
+Orbit: Explorer 11 - Untitled Aerospace - 1964
 
 #### Advanced:
 Space station: Not done yet
