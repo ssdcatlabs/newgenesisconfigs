@@ -184,5 +184,13 @@
           "event": "Explorer 12 | First lunar lander",
           "who": "Untitled Aerospace"
         },
+        {
+          "event": "Arbiter 1 | First attempted Venus flyby",
+          "who": "Aerospace Pioneers Association"
+        },
+        {
+          "event": "Arbiter 2 | First Venus flyby",
+          "who": "Aerospace Pioneers Association"
+        }
     ]
 }
