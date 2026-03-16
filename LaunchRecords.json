@@ -191,6 +191,10 @@
         {
           "event": "Arbiter 2 | First Venus flyby",
           "who": "Aerospace Pioneers Association"
+        },
+        {
+          "event": "Jaguar 7 | Lunar flyby and earth SOI escape",
+          "who": "Bluestar Aerospace"
         }
     ]
 }
