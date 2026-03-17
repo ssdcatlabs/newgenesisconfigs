@@ -203,6 +203,10 @@
         {
           "event": "Testifier 2 | Satellite deployment mission; payload mass record for APA",
           "who": "Aerospace Pioneers Association"
+        },
+        {
+          "event": "Explorer 13 | Earth SOI escape",
+          "who": "Untitled Aerospace"
         }
     ]
 }
