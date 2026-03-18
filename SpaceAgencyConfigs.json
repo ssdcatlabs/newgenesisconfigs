@@ -111,14 +111,6 @@
             "prestige": "0",
             "status": "Active",
             "comms": "Basic"
-        },
-        {
-            "name": "Test Agency",
-            "owner": "Test Person",
-            "type": "Private",
-            "prestige": "0",
-            "status": "Active",
-            "comms": "Basic"
         }
     ]
 }
