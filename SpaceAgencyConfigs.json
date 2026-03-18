@@ -9,14 +9,6 @@
             "comms": "Basic"
         },
         {
-            "name": "Aerospace Pioneers Association",
-            "owner": "QMSP",
-            "type": "Private",
-            "prestige": "5.5",
-            "status": "Active",
-            "comms": "Interplanetary"
-        },
-        {
             "name": "Roshan Aerospace and Space Agency (RASA)",
             "owner": "Roshan",
             "type": "Private",
