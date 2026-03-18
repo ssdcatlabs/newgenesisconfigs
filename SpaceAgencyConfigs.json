@@ -57,7 +57,7 @@
             "comms": "Interplanetary"
         },
         {
-            "name":"Untitled Aersopace",
+            "name": "Untitled Aersopace",
             "owner": "ilikespace",
             "type": "Private",
             "prestige": "4.25",
@@ -83,7 +83,7 @@
         {
             "name": "Baltic Blue",
             "owner": "Infinix",
-            "type":"Private",
+            "type": "Private",
             "prestige": "0",
             "status": "Active",
             "comms": "Basic"
@@ -91,7 +91,7 @@
         {
             "name": "HB AREOSPACE",
             "owner": "RocketNerd2026",
-            "type":"Private",
+            "type": "Private",
             "prestige": "0",
             "status": "Active",
             "comms": "Basic"
@@ -111,6 +111,16 @@
             "prestige": "0",
             "status": "Active",
             "comms": "Basic"
-        }
+        },
+        [
+            {
+                "name": "Test Agency",
+                "owner": "Test Person",
+                "type": "Private",
+                "prestige": "0",
+                "status": "Active",
+                "comms": "Basic"
+            }
+        ]
     ]
 }
