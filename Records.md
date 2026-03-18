@@ -2,7 +2,7 @@
 THis is used to store records of notable missions, e.g. first crewed orbit of the moon.
 
 # General
-First launch: Skyman 1 - Aerospace Pioneers Association - 1951               
+First launch:    
 First orbit:       
 
 # Earth:
@@ -23,7 +23,7 @@ Flyby: Not done yet
 Orbit: Not done yet
 
 #### Uncrewed:
-Flyby: Lunon 2 - Aerospace Pioneers Association - 1957       
+Flyby:    
 Orbit: Explorer 11 - Untitled Aerospace - 1964
 
 #### Advanced:
