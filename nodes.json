@@ -1,10 +1,3 @@
 {
-    "nodes": [
-        {
-            "name": "Orbital rocketry",
-            "partsunlocked": "Proto-hawk engine, fuel tank (max d = 3)",
-            "requirements": "Orbital flight",
-            "teir": "2"
-        }
-    ]
+    "nodes": []
 }
