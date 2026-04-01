@@ -9,8 +9,8 @@ Contains the configs for New Genesis (season 2 of the 1.6 rp)
 [MODS.md](https://github.com/ssdcatlabs/newgenesisconfigs/blob/main/Mods.md) is the list of mods
 
 ## Links
-Forum thread: [Placeholder](https://jmnet.one/sfs/forum/index.php?threads/new-genesis-sfs-rp.17958/)     
-Discord Server: [New Genisis](https://discord.gg/ZnzxsBcbhJ)      
+Forum thread: [New Genesis SFS RP Thread](https://jmnet.one/sfs/forum/index.php?threads/new-genesis-sfs-rp.17958/)     
+Discord Server: [The SFS Forumers](https://discord.gg/ZnzxsBcbhJ)      
 Website: [SFS 1.6 RP](https://sfsnewrp.w3spaces.com/)    
 
 **Old links**
