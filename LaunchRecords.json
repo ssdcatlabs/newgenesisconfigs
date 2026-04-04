@@ -1,8 +1,12 @@
 {
     "Launch_Records": [
         {
-            "event": "Sample",
-            "who": "Sample"
+            "event": "First launch",
+            "who": "Untitled Aerospace"
+        },
+        {
+            "event": "First recovered craft",
+            "who": "Nuclide Technologies"
         }
     ]
 }
