@@ -7,6 +7,22 @@
             "prestige": "0",
             "status": "Active",
             "comms": "Basic"
+        },
+        {
+            "name": "Nuclide Technologies",
+            "owner": "Engine",
+            "type": "Private",
+            "prestige": "0",
+            "status": "Active",
+            "comms": "Basic"
+        },
+        {
+            "name": "Danish Aerospace Agency",
+            "owner": "FPE Fan",
+            "type": "Private",
+            "prestige": "0",
+            "status": "Active",
+            "comms": "Basic"
         }
     ]
 }
