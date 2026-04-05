@@ -5,7 +5,11 @@
             "who": "Untitled Aerospace"
         },
         {
-            "event": "First recovered craft",
+            "event": "Pioneer 1 | First recovered craft",
+            "who": "Nuclide Technologies"
+        },
+        {
+            "event": "Pioneer 2 | First craft to land 100+ km downrange",
             "who": "Nuclide Technologies"
         }
     ]
