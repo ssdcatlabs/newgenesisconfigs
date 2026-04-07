@@ -11,6 +11,14 @@
         {
             "event": "Pioneer 2 | First craft to land 100+ km downrange",
             "who": "Nuclide Technologies"
+        },
+        {
+            "event": "Fully reusable Rocket",
+            "who": "Roshan Aerospace and Space Agency"
+        },
+        {
+            "event": "Pioneer 3 | an orbital flight test | first orbital flight | A small satellite was deployed.",
+            "who": "Nuclide Technologies"
         }
     ]
 }
