@@ -13,12 +13,21 @@
             "who": "Nuclide Technologies"
         },
         {
-            "event": "Fully reusable Rocket",
+            "event": "A Fully Reusable Rocket",
             "who": "Roshan Aerospace and Space Agency"
         },
         {
             "event": "Pioneer 3 | an orbital flight test | first orbital flight | A small satellite was deployed.",
             "who": "Nuclide Technologies"
+        },
+        {
+            "event": "RASA Mission | First Fully reusable orbital mission",
+            "who": "RASA"
+        },
+        {
+            "event": "Network 4 | First comms satellite",
+            "who": "Nuclide Technologies"
         }
+        
     ]
 }
