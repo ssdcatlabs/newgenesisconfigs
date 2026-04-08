@@ -27,6 +27,10 @@
         {
             "event": "Network 4 | First comms satellite",
             "who": "Nuclide Technologies"
+        },
+        {
+            "event": "Cartographer-1 | First crewed flight",
+            "who": "Nuclide Technologies"
         }
         
     ]
