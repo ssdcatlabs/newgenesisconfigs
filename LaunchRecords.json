@@ -31,6 +31,10 @@
         {
             "event": "Cartographer-1 | First crewed flight",
             "who": "Nuclide Technologies"
+        },
+        {
+            "event": "Cartographer-2 | First crewed mission to reach space",
+            "who": "Nuclide Technologies"
         }
         
     ]
