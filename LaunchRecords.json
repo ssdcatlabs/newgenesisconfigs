@@ -35,7 +35,10 @@
         {
             "event": "Cartographer-2 | First crewed mission to reach space",
             "who": "Nuclide Technologies"
+        },
+        {
+            "event": "RASA Semi-reusable Crewed Mission",
+            "who": "Roshan Aerospace and Space Agency"
         }
-        
     ]
 }
