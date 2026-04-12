@@ -1,7 +1,7 @@
 {
     "Launch_Records": [
         {
-            "event": "First launch",
+            "event": "Explorer 1 | First launch",
             "who": "Untitled Aerospace"
         },
         {
@@ -39,6 +39,10 @@
         {
             "event": "RASA Semi-reusable Crewed Mission | First Crewed Mission to reach Orbit",
             "who": "Roshan Aerospace and Space Agency"
+        },
+        {
+            "event": "Explorer 2 | Comms satelite",
+            "who": "Untitled Aerospace"
         }
     ]
 }
