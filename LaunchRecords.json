@@ -43,6 +43,10 @@
         {
             "event": "Explorer 2 | Comms satelite",
             "who": "Untitled Aerospace"
+        },
+        {
+            "event": "Explorer 3 | First lunar flyby",
+            "who": "Untitled Aerospace"
         }
     ]
 }
